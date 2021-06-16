@@ -1,7 +1,7 @@
 app:
     name: Adminer
     code: adminer
-    notify: appz@ecloudcontrol.com
+    notify: eachakala@ecloudcontrol.com
 
 build:
     version: 4.8
@@ -11,11 +11,11 @@ build:
     image_template: adminer-4.8
 
 deploy:
-    context: alpha/DEV
+    context: eeshaachakala1/DEV
     replicas: 1
     port:
     - 8080
 
   
 properties:
-    revision : 25
+    revision : 26
