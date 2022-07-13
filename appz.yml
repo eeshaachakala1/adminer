@@ -21,4 +21,4 @@ properties:
     #MFA_PROVIDER: GA
     AUTHSECRET: test1234
     UPLOAD_SIZE_LIMIT: 256M
-    revision : 57
+    revision : 56
