@@ -22,4 +22,4 @@ properties:
     AUTHSECRET:
        vault: ADMINER_AUTHSECRET
     UPLOAD_SIZE_LIMIT: 256M
-    revision : 56
+    revision : 57
