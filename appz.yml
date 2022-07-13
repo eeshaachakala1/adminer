@@ -19,7 +19,6 @@ deploy:
   
 properties:
     #MFA_PROVIDER: GA
-    AUTHSECRET:
-       vault: ADMINER_AUTHSECRET
+    AUTHSECRET: test1234
     UPLOAD_SIZE_LIMIT: 256M
     revision : 56
